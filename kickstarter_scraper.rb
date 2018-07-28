@@ -22,5 +22,5 @@ def create_project_hash
       }
     }
 
-    projects 
+    return projects
 end
